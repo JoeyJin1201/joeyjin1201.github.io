@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JoeyTheLab</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://joeyjin1201.github.io/"/>
+  <updated>2021-04-21T00:57:51.857Z</updated>
+  <id>https://joeyjin1201.github.io/</id>
+  
+  <author>
+    <name>Joey Jin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flex 其實沒有想像中複雜(初級20題)</title>
+    <link href="https://joeyjin1201.github.io/css/20200327/3200182051/"/>
+    <id>https://joeyjin1201.github.io/css/20200327/3200182051/</id>
+    <published>2020-03-27T06:33:38.000Z</published>
+    <updated>2021-04-21T00:57:51.857Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;首先要感謝的是六角學院的用心栽培以及大量的付出及回饋&lt;/p&gt;
+&lt;p&gt;光是一個&lt;code&gt;Flex&lt;/code&gt;居然還做了合計幾十關的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhzY2hvb2wuZ2l0aHViLmlvL2ZsZXhib3gtcGlyYXRlL2luZGV4Lmh0bWwjLw==&quot; title=&quot;https://hexschool.github.io/flexbox-pirate/index.html#/&quot;&gt;遊戲&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;免費提供學員們練習&lt;/p&gt;
+&lt;p&gt;以下是我自己練習並紀錄過程，真心想學好&lt;code&gt;Flex&lt;/code&gt;的話，還是建議自己跑過一次流程哦！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="css" scheme="https://joeyjin1201.github.io/categories/css/"/>
+    
+    
+      <category term="Flex" scheme="https://joeyjin1201.github.io/tags/Flex/"/>
+    
+      <category term="CSS" scheme="https://joeyjin1201.github.io/tags/CSS/"/>
+    
+      <category term="Practice" scheme="https://joeyjin1201.github.io/tags/Practice/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test article</title>
+    <link href="https://joeyjin1201.github.io/Test/20200217/1137521214/"/>
+    <id>https://joeyjin1201.github.io/Test/20200217/1137521214/</id>
+    <published>2020-02-17T07:58:16.000Z</published>
+    <updated>2021-04-21T00:57:51.856Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i1.wp.com/abtechsolutions.ca/wp-content/uploads/2019/02/Test.png?resize=256%2C225&amp;ssl=1&quot; alt=&quot;testSign&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="https://joeyjin1201.github.io/categories/Test/"/>
+    
+    
+      <category term="test" scheme="https://joeyjin1201.github.io/tags/test/"/>
+    
+      <category term="forTest" scheme="https://joeyjin1201.github.io/tags/forTest/"/>
+    
+      <category term="justForTest" scheme="https://joeyjin1201.github.io/tags/justForTest/"/>
+    
+  </entry>
+  
+</feed>
