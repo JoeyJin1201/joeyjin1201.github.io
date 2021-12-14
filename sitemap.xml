@@ -60,27 +60,6 @@
 
   
   <url>
-    <loc>https://joeyjin1201.github.io/tags/test/</loc>
-    <lastmod>2021-12-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://joeyjin1201.github.io/tags/forTest/</loc>
-    <lastmod>2021-12-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://joeyjin1201.github.io/tags/justForTest/</loc>
-    <lastmod>2021-12-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://joeyjin1201.github.io/tags/Flex/</loc>
     <lastmod>2021-12-14</lastmod>
     <changefreq>daily</changefreq>
@@ -101,17 +80,38 @@
     <priority>0.6</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://joeyjin1201.github.io/categories/Test/</loc>
+    <loc>https://joeyjin1201.github.io/tags/test/</loc>
     <lastmod>2021-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
+    <loc>https://joeyjin1201.github.io/tags/forTest/</loc>
+    <lastmod>2021-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joeyjin1201.github.io/tags/justForTest/</loc>
+    <lastmod>2021-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://joeyjin1201.github.io/categories/css/</loc>
+    <lastmod>2021-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joeyjin1201.github.io/categories/Test/</loc>
     <lastmod>2021-12-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
